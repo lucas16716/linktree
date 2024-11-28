@@ -1,0 +1,117 @@
+/* Responsividade para telas pequenas (smartphones) */
+@media (max-width: 768px) {
+  body {
+    margin: 10px;
+    font-size: 14px;
+  }
+
+  main {
+    grid-template-columns: 1fr;
+    max-width: 100%;
+    border-radius: 14px;
+  }
+
+  main .profile {
+    margin: 15px 0;
+  }
+
+  main .profile .name {
+    font-size: 28px;
+  }
+
+  main .profile .title {
+    font-size: 16px;
+  }
+
+  main .profile .icons {
+    padding: 0 40px;
+    margin-bottom: 10px;
+  }
+
+  main .buttons {
+    font-size: 20px;
+    grid-template-rows: repeat(6, 1fr);
+  }
+
+  main .buttons a {
+    font-size: 18px;
+    padding-left: 20px;
+  }
+
+  main .buttons a span {
+    font-size: 12px;
+  }
+}
+
+/* Responsividade para tablets */
+@media (max-width: 1024px) and (min-width: 769px) {
+  body {
+    margin: 20px;
+    font-size: 16px;
+  }
+
+  main {
+    grid-template-columns: 1fr 1fr;
+    max-width: 90%;
+  }
+
+  main .profile .name {
+    font-size: 36px;
+  }
+
+  main .profile .title {
+    font-size: 18px;
+  }
+
+  main .profile .icons {
+    padding: 0 60px;
+  }
+
+  main .buttons {
+    font-size: 24px;
+  }
+
+  main .buttons a {
+    padding-left: 30px;
+  }
+
+  main .buttons a span {
+    font-size: 14px;
+  }
+}
+
+/* Responsividade para telas grandes (desktop) */
+@media (min-width: 1025px) {
+  body {
+    margin: 70px;
+    font-size: 18px;
+  }
+
+  main {
+    max-width: 1533px;
+  }
+
+  main .profile .name {
+    font-size: 43px;
+  }
+
+  main .profile .title {
+    font-size: 20px;
+  }
+
+  main .profile .icons {
+    padding: 0 240px;
+  }
+
+  main .buttons {
+    font-size: 28px;
+  }
+
+  main .buttons a {
+    padding-left: 40px;
+  }
+
+  main .buttons a span {
+    font-size: 14px;
+  }
+}
