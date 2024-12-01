@@ -7,7 +7,7 @@
 
 </div>
 
-> Um **projeto criado para reunir de forma prática meus links mais importantes** durante minha trajetória na programação, com uma **design dinâmico e criativo**. Foi desenvolvido utilizando **HTML** e **CSS**, com destaque para as animações e com um design responsivo para proporcionar uma experiência fluida e agradável em todos os dispositivos.
+> Um projeto criado para **reunir de forma prática meus links mais importantes** na minha trajetória na programação, com uma **design dinâmico e criativo**. Foi desenvolvido utilizando **HTML** e **CSS**, com destaque para as **animações** e com um **design responsivo** para proporcionar uma experiência fluida e agradável em todos os dispositivos.
 
 <p align="center">
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -16,34 +16,24 @@
   <a href="#estruturação-do-projeto">Guia Repositório</a>
 </p>
 
----
-
 <h2 id="projeto">PROJETO</h2>
 <h5>Acesse e confira o projeto em ação:</h5>
 
 - 🌐 <a href="https://linktree-lucascouto.vercel.app/">Vercel deploy</a>
 - 📹 <a href="https://drive.google.com/file/d/12pos6GxiOvqwj7jLurg7gW5Kj3PXU54i/view?usp=sharing">Vídeo do Projeto
-- 🖼️ Imagem do Projeto:
+- 🖼️ Imagens do Projeto:
 
-<div align="left">
+<div>
    <a target="_blank" href="">
    <img href="https://linktree-lucascouto.vercel.app/" src="./docs/src/img/prototipo2.jpg" alt="Imagem do protótipo inicial do site Linktree">
    </a>
- </div>
-
-<div align="right">
    <a target="_blank" href="https://linktree-lucascouto.vercel.app/">
    <img href="https://linktree-lucascouto.vercel.app/" src="./docs/src/img/prototipo1.jpg" alt="Imagem do protótipo final do site Linktree">
    </a>
- </div>
-
-<div align="right">
    <a target="_blank" href="https://linktree-lucascouto.vercel.app/">
    <img href="https://linktree-lucascouto.vercel.app/" src="./docs/src/img/mockup.jpg" alt="Imagem do protótipo final do site Linktree">
    </a>
  </div>
-
----
 
 <h2 id="funcionalidades">FUNCIONALIDADES</h2>
 
@@ -56,8 +46,6 @@
 
 - 📲 Adaptação completa para dispositivos móveis e telas menores (responsividade);
 - 🔗 Expansão para incluir mais links e funcionalidades interativas.
-
----
 
 <h2 id="tecnologias-e-ferramentas">TECNOLOGIAS E FERRAMENTAS</h2>
 
@@ -97,7 +85,7 @@ git clone https://github.com/lucas16716/linktree.git
 2. Abra o arquivo `index.html` no seu navegador:
 
 ```
-cd do-it-list
+cd linktree
 open index.html
 ```
 
