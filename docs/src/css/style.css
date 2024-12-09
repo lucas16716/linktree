@@ -202,8 +202,8 @@ main {
     & a span {
       font-size: 14px;
       font-weight: normal;
-      padding-right: 50px;
-      justify-content: flex-end;
+      text-align: end;
+      margin-right: 50px;
     }
   }
 }
