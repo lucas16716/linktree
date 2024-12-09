@@ -127,7 +127,7 @@ main {
       padding-left: 40px;
       justify-content: space-between;
       text-decoration: none;
-      background: #ff5470;
+      background: #bd5982;
       color: #00ebc7;
       transition: background 0.5s ease, transform 0.5s ease,
         box-shadow 0.5s ease;
@@ -148,7 +148,7 @@ main {
       gap: 85px;
       text-decoration: none;
       background: #00ebc7;
-      color: #ff5470;
+      color: #bd5982;
       transition: background 0.5s ease, transform 0.5s ease,
         box-shadow 0.5s ease;
     }
