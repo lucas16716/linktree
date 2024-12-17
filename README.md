@@ -25,13 +25,13 @@
 
 <div>
    <a target="_blank" href="">
-   <img href="https://linktree-lucascouto.vercel.app/" src="./docs/src/img/prototipo2.jpg" alt="Imagem do protótipo inicial do site Linktree">
+   <img href="https://linktree-lucascouto.vercel.app/" src="./docs/assets/img/prototipo2.jpg" alt="Imagem do protótipo inicial do site Linktree">
    </a>
    <a target="_blank" href="https://linktree-lucascouto.vercel.app/">
-   <img href="https://linktree-lucascouto.vercel.app/" src="./docs/src/img/prototipo1.jpg" alt="Imagem do protótipo final do site Linktree">
+   <img href="https://linktree-lucascouto.vercel.app/" src="./docs/assets/img/prototipo1.jpg" alt="Imagem do protótipo final do site Linktree">
    </a>
    <a target="_blank" href="https://linktree-lucascouto.vercel.app/">
-   <img href="https://linktree-lucascouto.vercel.app/" src="./docs/src/img/mockup.jpg" alt="Imagem do protótipo final do site Linktree">
+   <img href="https://linktree-lucascouto.vercel.app/" src="./docs/assets/img/mockup.jpg" alt="Imagem do protótipo final do site Linktree">
    </a>
  </div>
 
