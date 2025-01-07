@@ -19,19 +19,19 @@
 <h2 id="projeto">PROJETO</h2>
 <h5>Acesse e confira o projeto em ação:</h5>
 
-- 🌐 <a href="https://linktree-lucascouto.vercel.app/">Vercel deploy</a>
+- 🌐 <a href="https://lucaslinkverse.vercel.app/">Vercel deploy</a>
 - 📹 <a href="https://drive.google.com/file/d/12pos6GxiOvqwj7jLurg7gW5Kj3PXU54i/view?usp=sharing">Vídeo do Projeto
 - 🖼️ Imagens do Projeto:
 
 <div>
    <a target="_blank" href="">
-   <img href="https://linktree-lucascouto.vercel.app/" src="./docs/assets/img/prototipo2.jpg" alt="Imagem do protótipo inicial do site Linktree">
+   <img href="https://lucaslinkverse.vercel.app/" src="./docs/assets/img/prototipo2.jpg" alt="Imagem do protótipo inicial do site Linktree">
    </a>
-   <a target="_blank" href="https://linktree-lucascouto.vercel.app/">
-   <img href="https://linktree-lucascouto.vercel.app/" src="./docs/assets/img/prototipo1.jpg" alt="Imagem do protótipo final do site Linktree">
+   <a target="_blank" href="https://lucaslinkverse.vercel.app/">
+   <img href="https://lucaslinkverse.vercel.app/" src="./docs/assets/img/prototipo1.jpg" alt="Imagem do protótipo final do site Linktree">
    </a>
-   <a target="_blank" href="https://linktree-lucascouto.vercel.app/">
-   <img href="https://linktree-lucascouto.vercel.app/" src="./docs/assets/img/mockup.jpg" alt="Imagem do protótipo final do site Linktree">
+   <a target="_blank" href="https://lucaslinkverse.vercel.app/">
+   <img href="https://lucaslinkverse.vercel.app/" src="./docs/assets/img/mockup.jpg" alt="Imagem do protótipo final do site Linktree">
    </a>
  </div>
 
@@ -104,4 +104,4 @@ open index.html
 <p>Este projeto está licenciado sob a licença MIT. Confira os detalhes na documentação oficial.</p>
 
 <h2>🧑🏻‍💻 AUTOR</h2> 
-<p>Desenvolvido por <a href="https://www.linkedin.com/in/lucas-coutoti/">Lucas Couto</a>, com foco em aprendizado contínuo e busca por excelência no desenvolvimento web.</p>
+<p>Desenvolvido por <a href="https://lucaslinkverse.vercel.app/">Lucas Couto</a>, com foco em aprendizado contínuo e busca por excelência no desenvolvimento web.</p>
