@@ -67,7 +67,8 @@
 │   │   │   └── style.css        # Código CSS para estilização
 │   │   │   ├── background.css   # Código CSS para o fundo gradiente
 │   │   │   └── responsive.css   # Código CSS para responsividade
-│   │   └── 📂 img               # Imagens do projeto
+│   │   ├── 📂 img               # Imagens do projeto
+│   │   └── 📂 docs              # Meu Currículo
 │   └── index.html               # Página principal
 ├── README.md                    # Documentação
 └── LICENSE                      # Licença
