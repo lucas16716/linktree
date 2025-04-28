@@ -1,4 +1,4 @@
-<h1 align="center">Linktree 🌐</h1>
+<h1 align="center">Linkverse 🌐</h1>
 
 <div>
   
@@ -7,7 +7,7 @@
 
 </div>
 
-> Um projeto criado para **reunir de forma prática meus links mais importantes** na minha trajetória na programação, com uma **design dinâmico e criativo**. Foi desenvolvido utilizando **HTML** e **CSS**, com destaque para as **animações** e com um **design responsivo** para proporcionar uma experiência fluida e agradável em todos os dispositivos.
+> Plataforma interativa que **organiza meus links** em uma **interface visual dinâmica**, com **animações CSS nos botões e background gradiente em movimento contínuo**. Foi desenvolvido utilizando **HTML** e **CSS**, além do **design responsivo** para proporcionar uma experiência fluida e agradável em todos os dispositivos.
 
 <p align="center">
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -105,4 +105,4 @@ open index.html
 <p>Este projeto está licenciado sob a licença MIT. Confira os detalhes na documentação oficial.</p>
 
 <h2>🧑🏻‍💻 AUTOR</h2> 
-<p>Desenvolvido por <a href="https://lucaslinkverse.vercel.app/">Lucas Couto</a>, com foco em aprendizado contínuo e busca por excelência no desenvolvimento web.</p>
+<p>Desenvolvido por <a href="https://lucaslinkverse.vercel.app/">Lucas Code</a>.</p>
