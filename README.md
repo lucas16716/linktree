@@ -45,7 +45,7 @@
 <h4>Melhorias Futuras</h4>
 
 - 📲 Adaptação completa para dispositivos móveis e telas menores (responsividade);
-- 🔗 Expansão para incluir mais links e funcionalidades interativas.
+- 🚀 Versão 2.0 em desenvolvimento
 
 <h2 id="tecnologias-e-ferramentas">TECNOLOGIAS E FERRAMENTAS</h2>
 
