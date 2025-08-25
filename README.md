@@ -7,7 +7,7 @@
 
 </div>
 
-> Plataforma interativa que **organiza meus links** em uma **interface visual dinâmica**, com **animações CSS nos botões e background gradiente em movimento contínuo**. Foi desenvolvido utilizando **HTML** e **CSS**, além do **design responsivo** para proporcionar uma experiência fluida e agradável em todos os dispositivos.
+> Plataforma interativa que **organiza meus links** em uma **interface visual simples**, com **animações nos botões** e **background gradiente em movimento contínuo**, proporcionando uma experiência fluida, dinâmica e responsiva em todos os dispositivos.
 
 <p align="center">
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -20,19 +20,12 @@
 <h5>Acesse e confira o projeto em ação:</h5>
 
 - 🌐 <a href="https://lucaslinkverse.vercel.app/">Vercel deploy</a>
-- 📹 <a href="https://drive.google.com/file/d/12pos6GxiOvqwj7jLurg7gW5Kj3PXU54i/view?usp=sharing">Vídeo do Projeto
 - 🖼️ Imagens do Projeto:
 
 <div>
-   <a target="_blank" href="">
-   <img href="https://lucaslinkverse.vercel.app/" src="./docs/assets/img/prototipo2.jpg" alt="Imagem do protótipo inicial do site Linktree">
-   </a>
-   <a target="_blank" href="https://lucaslinkverse.vercel.app/">
-   <img href="https://lucaslinkverse.vercel.app/" src="./docs/assets/img/prototipo1.jpg" alt="Imagem do protótipo final do site Linktree">
-   </a>
-   <a target="_blank" href="https://lucaslinkverse.vercel.app/">
-   <img href="https://lucaslinkverse.vercel.app/" src="./docs/assets/img/mockup.jpg" alt="Imagem do protótipo final do site Linktree">
-   </a>
+   <a href="https://lucaslinkverse.vercel.app/"><img src="./docs/assets/img/prototipo2.jpg"></a>
+   <a href="https://lucaslinkverse.vercel.app/"><img src="./docs/assets/img/prototipo1.jpg"></a>
+   <a href="https://lucaslinkverse.vercel.app/"><img src="./docs/assets/img/mockup.jpg"></a>
  </div>
 
 <h2 id="funcionalidades">FUNCIONALIDADES</h2>
@@ -49,11 +42,11 @@
 
 <h2 id="tecnologias-e-ferramentas">TECNOLOGIAS E FERRAMENTAS</h2>
 
-- **HTML5:** Estrutura semântica e base do site;
-- **CSS3:** Estilização e animações interativas;
-- **Git/GitHub:** Versionamento de código e hospedagem;
-- **Vercel:** Deploy oficial do site;
-- **Canva:** Prototipação e planejamento visual.
+- **HTML5 →** Estrutura semântica e base do site;
+- **CSS3 →** Estilização e animações interativas;
+- **Git/GitHub →** Versionamento de código e hospedagem;
+- **Vercel →** Deploy oficial do site;
+- **Canva →** Prototipação e planejamento visual.
 
 ---
 
@@ -105,4 +98,4 @@ open index.html
 <p>Este projeto está licenciado sob a licença MIT. Confira os detalhes na documentação oficial.</p>
 
 <h2>🧑🏻‍💻 AUTOR</h2> 
-<p>Desenvolvido por <a href="https://bio.site/lucascode">Lucas Code</a>.</p>
+<p>Desenvolvido por <a href="https://lucaslinkverse.vercel.app/">Lucas Code</a>.</p>
