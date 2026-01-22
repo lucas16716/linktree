@@ -7,8 +7,6 @@
 
 </div>
 
-> Plataforma interativa que **organiza meus links** em uma **interface visual simples**, com **animações nos botões** e **background gradiente em movimento contínuo**, proporcionando uma experiência fluida, dinâmica e responsiva em todos os dispositivos.
-
 <p align="center">
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -17,23 +15,16 @@
 </p>
 
 <h2 id="projeto">PROJETO</h2>
-<h5>Acesse e confira o projeto em ação:</h5>
 
-- 🌐 <a href="https://lucaslinkverse.vercel.app/">Vercel deploy</a>
-- 🖼️ Imagens do Projeto:
+Plataforma interativa que **organiza meus links pessoais e profissionais** em uma **interface visual simples**, com **animações** e **background gradiente em movimento contínuo**, proporcionando uma experiência fluida, dinâmica e responsiva.
 
-<div>
-   <a href="https://lucaslinkverse.vercel.app/"><img src="./docs/assets/img/prototipo2.jpg"></a>
-   <a href="https://lucaslinkverse.vercel.app/"><img src="./docs/assets/img/prototipo1.jpg"></a>
-   <a href="https://lucaslinkverse.vercel.app/"><img src="./docs/assets/img/mockup.jpg"></a>
- </div>
+- 🌐 <a href="https://lucaslinkverse.vercel.app/">Deploy na Vercel</a>
 
 <h2 id="funcionalidades">FUNCIONALIDADES</h2>
 
 - 🔗 Acesso rápido aos links mais importantes (projetos, redes sociais, currículo, etc);
-- 🎨 Animações interativas em CSS nos botões e ícones de redes sociais;
-- 🌈 Fundo com animação infinita de gradiente harmonizando ao conteúdo da página;
-- 💡 Design criativo, planejado e prototipado no Canva para maior eficiência.
+- 🎨 Animações interativas em CSS;
+- 🌈 Fundo com animação infinita de gradiente;
 
 <h4>Melhorias Futuras</h4>
 
